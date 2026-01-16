@@ -1,16 +1,23 @@
-## Hi there 👋
+<!-- 헤더 -->
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&text=SeoHyeon%20Park&fontSize=80)
 
-<!--
-**seeohyuni/seeohyuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 한 줄 소개 -->
+<p align="center">
+  프로젝트 한 줄 설명
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About
+프로젝트에 대한 간단한 설명
+
+## 🛠 Tech Stack
+- Python
+- PyTorch
+- AWS
+
+## 🚀 Demo
+GIF나 스크린샷
+
+## 📄 Docs
+설명
