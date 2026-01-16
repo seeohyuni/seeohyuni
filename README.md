@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&text=Hello! I'm SeoHyeon%20Park&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&text=HSeoHyeon%20Park&fontSize=80)
 
 <!-- 한 줄 소개 -->
 <p align="center">
