@@ -1,17 +1,8 @@
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=blur&height=300&text=SeoHyeon%20Park&fontSize=80)
-<!-- =========================
-     HEADER
-========================= -->
-
-<h1 align="center">Hi, I'm Seohyun 👋</h1>
 
 <p align="center">
   Biomedical Engineering Student · AI / CV / Multimodal Research
-</p>
-
-<p align="center">
-  관심 분야: Computer Vision · OCR · Medical AI · Multimodal Learning
 </p>
 
 <br/>
