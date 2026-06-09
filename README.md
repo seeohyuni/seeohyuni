@@ -26,7 +26,7 @@
 ### Contact
 - Email: 
 - Blog / Portfolio: 
-- Notion / Velog / Tistory:
+- Notion / Tistory:
 
   </td>
   <td width="42%" align="center" valign="middle">
