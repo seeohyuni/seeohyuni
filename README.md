@@ -24,9 +24,9 @@
 - Research-oriented portfolio building
 
 ### Contact
-- Email: your_email@example.com
-- Blog / Portfolio: your_link
-- Notion / Velog / Tistory: your_link
+- Email: 
+- Blog / Portfolio: 
+- Notion / Velog / Tistory:
 
   </td>
   <td width="42%" align="center" valign="middle">
