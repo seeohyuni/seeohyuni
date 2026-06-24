@@ -92,7 +92,7 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
   <br>
   <li>
     <strong>Management Team, IGINI</strong> <br>
-    2025.06.23 ~ 2025.07.22 ｜ 네이버 클라우드 기반 인스타그램 스토리 이미지 자동 변환 웹 서비스 개발
+    2025.06.23 ~ 2025.07.22 ｜ <a href="https://github.com/seeohyuni/NAVER-CLOUD">NAVER-CLOUD</a>
   </li>
 </ul>
 
