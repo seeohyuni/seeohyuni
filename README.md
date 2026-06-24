@@ -216,5 +216,9 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
 
 </details>
 
+---
+
+#### 📬 Contact
+- Email: pshsph5445@naver.com
 
 
