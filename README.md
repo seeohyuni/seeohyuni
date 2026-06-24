@@ -3,12 +3,12 @@
 My name is Seohyeon Park, and I am actively conducting research in computer vision and multimodal learning.
 
 #### 👩‍🎓 Education
-- Combined B.S.–M.S. Degree Program in AI Software Convergence, Konyang University (25.09~ing)
+- Combined B.S.–M.S. Degree Program in AI Software Convergence, Konyang University (25.09 ~ ing)
 - B.S. in Artificial Intelligence, Konyang University (23.03 ~ 26.07 · Expected Early Graduation)
 
 #### 💼 Activities
-- 인공지능학과 학생회 기획부 (24.01 ~ 25 12)
-- 건양대학교 인공지능학과 MAINIX 동아리(24.08 ~ 25.12)
+- Planning Department, Student Association of the Department of Artificial Intelligence, Konyang University (24.01 ~ 25 12)
+- MAINIX AI Society, Department of Artificial Intelligence, Konyang University(24.08 ~ 25.12)
 
 ---
 
