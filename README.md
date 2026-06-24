@@ -87,7 +87,7 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
 <ul>
   <li>
     <strong>AI & Architect Team, NxtCloud</strong> <br>
-    2026.01.05 ~ 2026.01.30 ｜ AI·Cloud 기술 문서화 및 SAM2 기반 객체 분할 웹 기획
+    2026.01.05 ~ 2026.01.30 ｜ AI·AWS Cloud 기술 문서화 및 SAM2 기반 객체 분할 웹 기획
   </li>
   <br>
   <li>
