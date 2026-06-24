@@ -15,6 +15,7 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
 <details>
 <summary>📄 <b>Paper</b></summary>
 
+<br>
 
 <ul>
   <li>
@@ -29,5 +30,6 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
 </ul>
 
 </details>
+
 
 
