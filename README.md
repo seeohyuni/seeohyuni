@@ -165,8 +165,33 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
   </li>
   <br>
   <li>
-    <strong>AI Agent</strong> <br>
+    <strong>AI Agent 프로그램</strong> <br>
     2026.04.27 ~ 2026.04.29 ｜ 건양대학교 SW중심사업단, AWS
+  </li>
+</ul>
+
+</details>
+
+<details>
+<summary>📜 <b>Certifications</b></summary>
+
+<br>
+
+<ul>
+  <li>
+    <strong>데이터분석 준전문가 (ADsP)</strong> ｜ 데이터자격검정 <br>
+  </li>
+  <br>
+  <li>
+    <strong>Microsoft Certified: AI Fundamentals (AI-900)</strong> ｜ Microsoft <br>
+  </li>
+  <br>
+  <li>
+    <strong>NAVER Cloud Platform Certified Associate</strong> ｜ NAVER Cloud <br>
+  </li>
+  <br>
+  <li>
+    <strong>AI-PDTQ (AI-aided Product Design Technology Qualification)</strong> ｜ 인공지능디자인협회 <br>
   </li>
 </ul>
 
