@@ -2,6 +2,8 @@
 
 My name is Seohyeon Park, and I am actively conducting research in computer vision and multimodal learning.
 
+---
+
 <details>
 <summary>📄 Paper</summary>
 
@@ -16,4 +18,3 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
 
 </details>
 
-<details>
