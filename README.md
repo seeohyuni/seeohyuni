@@ -39,7 +39,7 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
 <ul>
   <li>
     <strong>제3회 국민대학교 AI빅데이터 분석 경진대회</strong> ｜ prvatie 상위 0.9%<br>
-    2025.11.10 ~ 2025.11.28 ｜ DACON (국민대학교 경영대학원, 기계산업진흥회)
+    2025.11.10 ~ 2025.11.28 ｜ DACON · 국민대학교 경영대학원, 기계산업진흥회
   </li>
   <br>
   <li>
@@ -49,7 +49,31 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
   <br>
   <li>
     <strong>2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문</strong> ｜ prvaite 상위 7%<br>
-    2024.08.28 ~ 2024.10.21 ｜ DACON (과학기술정보통신부, 한국생명공학연구원, 국가생명연구자원정보센터)
+    2024.08.28 ~ 2024.10.21 ｜ DACON · 과학기술정보통신부, 한국생명공학연구원, 국가생명연구자원정보센터
+  </li>
+  <br>
+  <li>
+    <strong>2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문</strong> ｜ prvaite 상위 7%<br>
+    2024.08.28 ~ 2024.10.21 ｜ DACON · 과학기술정보통신부, 한국생명공학연구원, 국가생명연구자원정보센터
+  </li>
+</ul>
+
+</details>
+
+<details>
+<summary>🥇 <b>Awards</b></summary>
+
+<br>
+
+<ul>
+  <li>
+    <strong>AWS, AI를 활용한 자율주행자동차 양성과정</strong> ｜ 온라인 대회 팀전 2등 <br>
+    2024.01.02 ~ 2024.01.11 ｜ DSC 지역 혁신 플랫폼 
+  </li>
+  <br>
+  <li>
+    <strong>건양대학교 창업 아이디어 경진대회</strong> ｜1등 (대상)<br>
+    2025.12.17 ｜ 건양대학교 소프트웨어중심사업단
   </li>
 </ul>
 
