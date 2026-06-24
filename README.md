@@ -72,8 +72,27 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
   </li>
   <br>
   <li>
-    <strong>건양대학교 창업 아이디어 경진대회</strong> ｜1등 (대상)<br>
+    <strong>건양대학교 창업 아이디어 경진대회</strong> ｜ 1등 (대상)<br>
     2025.12.17 ｜ 건양대학교 소프트웨어중심사업단
+  </li>
+</ul>
+
+</details>
+
+<details>
+<summary>🚀 <b>Projects</b></summary>
+
+<br>
+
+<ul>
+  <li>
+    <strong>OCR과 LLM을 결합한 화장품 성분 분석 서비스</strong> ｜ <br>
+    2025.09 ~ 2025.01.12 
+  </li>
+  <br>
+  <li>
+    <strong>웹캠 기반 행동 분석과 LLM 리포트를 결합한 성인 ADHD 초기 스크리닝 웹 서비스</strong> ｜ [FAST: ADHD Screening Web](https://github.com/seeohyuni/adhd-test-app)<br>
+    2026.03 ~ 2026.06 
   </li>
 </ul>
 
