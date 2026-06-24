@@ -8,7 +8,7 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
 
 #### 💼 Activities
 - Planning Department, Student Association of the Department of Artificial Intelligence, Konyang University (24.01 ~ 25 12)
-- MAINIX AI Society, Department of Artificial Intelligence, Konyang University(24.08 ~ 25.12)
+- MAINIX AI Society, Department of Artificial Intelligence, Konyang University (24.08 ~ 25.12)
 
 ---
 
