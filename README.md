@@ -43,13 +43,8 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
   </li>
   <br>
   <li>
-    <strong>웹 광고 클릭률 예측 AI 경진대회</strong> ｜ private 상위 10%<br>
+    <strong>웹 광고 클릭률 예측 AI 경진대회</strong> ｜ private 상위 9%<br>
     2024.05.07 ~ 2024.06.03 ｜ DACON
-  </li>
-  <br>
-  <li>
-    <strong>2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문</strong> ｜ prvaite 상위 7%<br>
-    2024.08.28 ~ 2024.10.21 ｜ DACON · 과학기술정보통신부, 한국생명공학연구원, 국가생명연구자원정보센터
   </li>
   <br>
   <li>
