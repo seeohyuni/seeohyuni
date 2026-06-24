@@ -1,8 +1,16 @@
 ## Building Better AI Models... <img src="claude.gif" width="28">
 
 My name is Seohyeon Park, and I am actively conducting research in computer vision and multimodal learning.
-- 건양대학교 AI 소프트웨어융합학과 석사과정 1학년 / 인공지능학과 학생회 기획부 (2024.01 ~ 2025 12)
+
+#### 👩‍🎓 Education
+- 건양대학교 AI 소프트웨어융합학과 학석연계과정 (2025.09 ~ ing)
+- 건양대학교 인공지능학과 조기졸업 (2023.03 ~ 2026.07)
+
+#### 💼 Activities
+- 인공지능학과 학생회 기획부 (2024.01 ~ 2025 12)
 - 건양대학교 인공지능학과 MAINIX 동아리(2024.08 ~ 2025.12)
+
+---
 
 <details>
 <summary>📄 Paper</summary>
