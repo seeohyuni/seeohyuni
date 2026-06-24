@@ -86,13 +86,23 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
 
 <ul>
   <li>
-    <strong>OCR과 LLM을 결합한 화장품 성분 분석 서비스</strong> ｜ <br>
-    2025.09 ~ 2025.01.12 
+    <strong>시공간 관계 추론 기반 Audio-Visual Question Answering</strong> <br>
+    2026.03 ~ 2026.05 ｜ <a href="https://github.com/seeohyuni/Question-Guided-AVQA-fusion">Question-Guided-AVQA-fusion</a>
   </li>
   <br>
   <li>
     <strong>웹캠 기반 행동 분석과 LLM 리포트를 결합한 성인 ADHD 초기 스크리닝 웹 서비스</strong> <br>
-    2026.03 ~ 2026.06 ｜ [FAST: ADHD Screening Web](https://github.com/seeohyuni/adhd-test-app)
+    2026.03 ~ 2026.06 ｜ <a href="https://github.com/seeohyunii/adhd-test-app">FAST: ADHD Screening Web</a>
+  </li>
+  <br>
+  <li>
+    <strong>LLM을 활용한 대화 문맥 기반 감정 분류</strong> <br>
+    2025.09 ~ 2025.12 ｜ </a>
+  </li>
+  <br>
+  <li>
+    <strong>OCR과 LLM을 결합한 화장품 성분 분석 서비스</strong> ｜ <br>
+    2025.09 ~ 2025.12 
   </li>
 </ul>
 
