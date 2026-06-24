@@ -15,6 +15,7 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
 <details>
 <summary>📄 <b>Paper</b></summary>
 
+
 <ul>
   <li>
     <strong>질의 연관 시청각 단서 정제 및 시공간 관계 추론 기반 Audio-Visual Question Answering 성능 비교 연구</strong> ｜ 1저자<br>
