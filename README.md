@@ -1,2 +1,3 @@
 ## Building Better AI Models... <img src="claude.gif" width="28">
-<sub><i>Training, evaluating, and optimizing models one experiment at a time.</i></sub>
+
+My name is Seohyeon Park, and I am actively conducting research in computer vision and multimodal learning.
