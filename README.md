@@ -67,7 +67,7 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
 
 <ul>
   <li>
-    <strong>AWS, AI를 활용한 자율주행자동차 양성과정</strong> ｜ 온라인 대회 팀전 2등 <br>
+    <strong>AWS 자율주행자동차 양성과정</strong> ｜ 온라인 대회 팀전 2등 <br>
     2024.01.02 ~ 2024.01.11 ｜ DSC 지역 혁신 플랫폼 
   </li>
   <br>
@@ -97,12 +97,76 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
   <br>
   <li>
     <strong>LLM을 활용한 대화 문맥 기반 감정 분류</strong> <br>
-    2025.09 ~ 2025.12 ｜ </a>
+    2025.09 ~ 2025.12 
   </li>
   <br>
   <li>
-    <strong>OCR과 LLM을 결합한 화장품 성분 분석 서비스</strong> ｜ <br>
+    <strong>OCR과 LLM을 결합한 화장품 성분 분석 서비스</strong> <br>
     2025.09 ~ 2025.12 
+  </li>
+  <br>
+  <li>
+    <strong>단일 EEG 수면 단계 분류</strong> <br>
+    2024.03 ~ 2024.06 ｜ <a href="https://github.com/seeohyuni/sleep-classification">sleep-classification</a>
+  </li>
+  <br>
+  <li>
+    <strong>생성형 AI(LLM)와 인간 : 텍스트 판별 챌린지</strong> <br>
+    2025.07.01 ~ 2025.07.15 ｜ 2025 SW중심대학 디지털 경진대회
+  </li>
+</ul>
+
+</details>
+
+<details>
+<summary>🌐 <b>Extracurricular Activities</b></summary>
+
+<br>
+
+<ul>
+  <li>
+    <strong>영상 아카이브 기반 가상광고 교체 및 글로벌 현지화 자동화</strong> <br>
+    2026.03 ~ 2026.10 ｜ 건양대학교 SW중심대학사업단 Lab-corps 
+  </li>
+  <br>
+  <li>
+    <strong>샌프란시스코 주립대학 해외 단기어학연수 프로그램</strong> <br>
+    2025.01.12 ~ 2025.01.26 ｜ 건양대학교 글로컬대학사업추진단
+  </li>
+  <br>
+  <li>
+    <strong>네이버클라우드 2기</strong> <br>
+    2025.04.28 ~ 2025.05.03 ｜ 건양대학교 SW중심사업단, 네이버 클라우드
+  </li>
+  <br>
+  <li>
+    <strong>AWS AI 부트캠프 프로그램</strong> <br>
+    2025.09.26 ~ 2025.12.30 ｜ 건양대학교 SW중심사업단, AWS
+  </li>
+  <br>
+  <li>
+    <strong>AWS, AI를 활용한 자율주행자동차 양성과정</strong> <br>
+    2025.09 ~ 2025.12 ｜ DSC 지역 혁신 플랫폼 
+  </li>
+  <br>
+  <li>
+    <strong>Github 활용 사물인터넷 프로그래밍 캠프</strong> <br>
+    2025.11.20 ~ 2025.11.21 ｜ 건양대학교 SW중심사업단
+  </li>
+  <br>
+  <li>
+    <strong>생성형 AI(LLM)와 인간 : 텍스트 판별 챌린지</strong> <br>
+    2025.07.01 ~ 2025.07.15 ｜ 2025 SW중심대학 디지털 경진대회
+  </li>
+  <br>
+  <li>
+    <strong>KYU VIBE-UP 건양대학교 창업아이디어 경진대회</strong> <br>
+    2025.12.16 ~ 2025.12.17 ｜ 건양대학교 SW중심사업단
+  </li>
+  <br>
+  <li>
+    <strong>AI Agent</strong> <br>
+    2026.04.27 ~ 2026.04.29 ｜ 건양대학교 SW중심사업단, AWS
   </li>
 </ul>
 
