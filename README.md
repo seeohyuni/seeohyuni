@@ -13,14 +13,20 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
 ---
 
 <details>
-<summary>📄 Paper</summary>
+<summary>📄 <b>Paper</b></summary>
 
-<br/>
-- **질의 연관 시청각 단서 정제 및 시공간 관계 추론 기반 Audio-Visual Question Answering 성능 비교 연구** ｜ 1저자
-  2026.06 ｜ 한국방송·미디어공학회 하계학술대회 대학생 논문
-  
-- **CLIP을 활용한 BiLSTM 모델 구조별 문맥 기반 감정 인식** ｜ 공동 1저자  
-  2025.11 ｜ 한국인공지능융합기술학회 추계학술대회   
+<ul>
+  <li>
+    <strong>질의 연관 시청각 단서 정제 및 시공간 관계 추론 기반 Audio-Visual Question Answering 성능 비교 연구</strong> ｜ 1저자<br>
+    2026.06 ｜ 한국방송·미디어공학회 하계학술대회 대학생 논문
+  </li>
+  <br>
+  <li>
+    <strong>CLIP을 활용한 BiLSTM 모델 구조별 문맥 기반 감정 인식</strong> ｜ 공동 1저자<br>
+    2025.11 ｜ 한국인공지능융합기술학회 추계학술대회
+  </li>
+</ul>
 
 </details>
+
 
