@@ -91,8 +91,8 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
   </li>
   <br>
   <li>
-    <strong>웹캠 기반 행동 분석과 LLM 리포트를 결합한 성인 ADHD 초기 스크리닝 웹 서비스</strong> ｜ [FAST: ADHD Screening Web](https://github.com/seeohyuni/adhd-test-app)<br>
-    2026.03 ~ 2026.06 
+    <strong>웹캠 기반 행동 분석과 LLM 리포트를 결합한 성인 ADHD 초기 스크리닝 웹 서비스</strong> <br>
+    2026.03 ~ 2026.06 ｜ [FAST: ADHD Screening Web](https://github.com/seeohyuni/adhd-test-app)
   </li>
 </ul>
 
