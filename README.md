@@ -80,6 +80,25 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
 </details>
 
 <details>
+<summary>🧑‍💻 <b>Internships</b></summary>
+
+<br>
+
+<ul>
+  <li>
+    <strong>AI & Architect Team, NxtCloud</strong> <br>
+    2026.01.05 ~ 2026.01.30 ｜ AI·Cloud 기술 문서화 및 SAM2 기반 객체 분할 웹 기획
+  </li>
+  <br>
+  <li>
+    <strong>Management Team, IGINI</strong> <br>
+    2025.06.23 ~ 2025.07.22 ｜ 네이버 클라우드 기반 인스타그램 스토리 이미지 자동 변환 웹 서비스 개발
+  </li>
+</ul>
+
+</details>
+
+<details>
 <summary>🚀 <b>Projects</b></summary>
 
 <br>
