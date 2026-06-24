@@ -92,7 +92,7 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
   <br>
   <li>
     <strong>Management Team, IGINI</strong> <br>
-    2025.06.23 ~ 2025.07.22 ｜ <a href="https://github.com/seeohyuni/NAVER-CLOUD">NAVER-CLOUD</a>
+    2025.06.23 ~ 2025.07.22 ｜ 🧷 <a href="https://github.com/seeohyuni/NAVER-CLOUD">NAVER-CLOUD</a>
   </li>
 </ul>
 
@@ -106,12 +106,12 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
 <ul>
   <li>
     <strong>시공간 관계 추론 기반 Audio-Visual Question Answering</strong> <br>
-    2026.03 ~ 2026.05 ｜ <a href="https://github.com/seeohyuni/Question-Guided-AVQA-fusion">Question-Guided-AVQA-fusion</a>
+    2026.03 ~ 2026.05 ｜ 🧷 <a href="https://github.com/seeohyuni/Question-Guided-AVQA-fusion">Question-Guided-AVQA-fusion</a>
   </li>
   <br>
   <li>
     <strong>웹캠 기반 행동 분석과 LLM 리포트를 결합한 성인 ADHD 초기 스크리닝 웹 서비스</strong> <br>
-    2026.03 ~ 2026.06 ｜ <a href="https://github.com/seeohyunii/adhd-test-app">FAST: ADHD Screening Web</a>
+    2026.03 ~ 2026.06 ｜ 🧷 <a href="https://github.com/seeohyunii/adhd-test-app">FAST: ADHD Screening Web</a>
   </li>
   <br>
   <li>
@@ -126,7 +126,7 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
   <br>
   <li>
     <strong>단일 EEG 수면 단계 분류</strong> <br>
-    2024.03 ~ 2024.06 ｜ <a href="https://github.com/seeohyuni/sleep-classification">sleep-classification</a>
+    2024.03 ~ 2024.06 ｜ 🧷 <a href="https://github.com/seeohyuni/sleep-classification">sleep-classification</a>
   </li>
   <br>
   <li>
