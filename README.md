@@ -38,7 +38,7 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
 
 <ul>
   <li>
-    <strong>제3회 국민대학교 AI빅데이터 분석 경진대회</strong> ｜ prvatie 상위 0.9%<br>
+    <strong>제3회 국민대학교 AI빅데이터 분석 경진대회</strong> ｜ privatie 상위 0.9%<br>
     2025.11.10 ~ 2025.11.28 ｜ DACON · 국민대학교 경영대학원, 기계산업진흥회
   </li>
   <br>
@@ -48,7 +48,7 @@ My name is Seohyeon Park, and I am actively conducting research in computer visi
   </li>
   <br>
   <li>
-    <strong>2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문</strong> ｜ prvaite 상위 7%<br>
+    <strong>2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문</strong> ｜ privaite 상위 7%<br>
     2024.08.28 ~ 2024.10.21 ｜ DACON · 과학기술정보통신부, 한국생명공학연구원, 국가생명연구자원정보센터
   </li>
 </ul>
